@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor/OS specific files
+.DS_Store
+.vscode/ # If you're using VS Code and want to ignore its settings
+.idea/   # If you're using PyCharm and want to ignore its settings
+
+# Environment variables
+.env
+*.env
+
+# pytest cache
+.pytest_cache/
+
