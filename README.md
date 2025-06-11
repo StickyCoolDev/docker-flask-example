@@ -27,5 +27,5 @@ docker build -t cool-app .
 
 after building the container we need to run it with the docker run command
 ```bash
-docker run -p 5000:5000 cool-app # running the container with port 5000 maped to 5000
+docker run -p 5000:5000 cool-app # running the container with port 5000 mapped to 5000
 ```
