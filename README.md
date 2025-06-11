@@ -30,8 +30,8 @@ after building the container we need to run it with the docker run command
 docker run -p 5000:5000 cool-app # running the container with port 5000 mapped to 5000
 ```
 
-## Some Docker commands
-### `docker ps`
+# Some Docker commands
+## `docker ps`
 the docker ps command shows all of the current running container's
 ```bash
 docker ps
