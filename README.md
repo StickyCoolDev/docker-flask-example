@@ -37,7 +37,7 @@ the docker ps command shows all of the current running container's
 docker ps
 ```
 ## `docker pull <name>`
-the docker pull command and download a already made image from Docker Hub
+the docker pull command downloads a already made image from Docker Hub
 ```bash
 docker pull hello-world
 ```
