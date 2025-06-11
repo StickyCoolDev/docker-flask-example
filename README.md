@@ -9,6 +9,11 @@ first to run this example we need to clone the project
 ```bash
 git clone https://github.com/StickyCoolDev/docker-flask-example
 ```
+and change the directory to the cloned repo
+
+```bash
+cd docker-flask-example
+```
 
 ## Building the **Container**
 
